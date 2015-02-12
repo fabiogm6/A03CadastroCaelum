@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\FGH\Documents\_FabioGM\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\FGH\Documents\_FabioGM\Android\AndroidStudioProjects\A03CadastroCaelum\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-925ac47f0192be2480e3c56f12d4c8091aca2d52.jar" />
+    </item>
+
+</items>
